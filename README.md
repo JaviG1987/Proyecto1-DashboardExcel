@@ -37,6 +37,7 @@
 
    - Los productos de Breakfast son los que mayor visibilidad tienen pero los que menos se venden. Casi un 90% de los articulos vendidos están por debajo de un 7% de visibilidad media.
    
+   - Para más datos ir al Dashboard.
    
    
 
