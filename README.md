@@ -16,8 +16,9 @@
 
 - **Estructura del Proyecto**
 
-       ├── BlinkIT_Grocery_Data             # Datos crudos
-        ├── BlinkIT_Grocery_Data_Javi/      # Datos analizados 
+        ├── BlinkIT_Grocery_Data            # Datos crudos
+        ├── BlinkIT_Grocery_Data_Javi/      # Datos analizados
+        ├── Dashboard                       # Dashboard
         ├── README.md                       # Descripción del proyecto
 
 - **Instalación y Requisitos**
@@ -33,6 +34,9 @@
    - El enfoque de venta que más éxito parece que tiene es el Supermarketype1 ya que acapara el 65% de las ventas.
 
    - En las zonas de menor densidad de población Tier1 y Tier 2, las tiendas de menor tamaño son las que más ventas tienen y en las zonas de mayor densidad Tier 3 son las tiendas High y medium. En zonas rurales o pequeñas hay menos grandes superficies y por lo tanto compran más en tiendas de barrio, sin embargo en ciudades grandes la gente suele comprar en centros comerciales o grandes supermercados.
+
+   - Los productos de Breakfast son los que mayor visibilidad tienen pero los que menos se venden. Casi un 90% de los articulos vendidos están por debajo de un 7% de visibilidad media.
+   
    
    
 
